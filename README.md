@@ -75,13 +75,10 @@ Cada dataset contiene la siguiente información:
 ### 💵 Ingresos Totales por Tienda
 <img src="https://github.com/solanomillo/Challenge-Alura-Store/blob/main/img/ingresos.png?raw=true" width="600"/>
 
-### 🛒 Ventas por Tienda
-<img src="https://github.com/solanomillo/Challenge-Alura-Store/blob/main/img/ventas_df1.png?raw=true" width="600"/>
-
-### 📦 Ventas por Categorías
+### 🏷️ Distribución de Ventas por Categoría
 <img src="https://github.com/solanomillo/Challenge-Alura-Store/blob/main/img/ventas_categorias.png?raw=true" width="600"/>
 
-### 🧾 Ventas por Productos
+### 📦 Productos Más y Menos Vendidos
 <img src="https://github.com/solanomillo/Challenge-Alura-Store/blob/main/img/ventas_productos.png?raw=true" width="600"/>
 
 ### ⭐ Calificaciones Promedio
@@ -120,5 +117,28 @@ Cada dataset contiene la siguiente información:
    cd Challenge-Alura-Store
    ```
 2. Instala las dependencias necesarias:
-3. Abre el notebook principal
-4. Ejecuta las celdas para visualizar los resultados y generar los gráficos.
+   ```bash
+   pip install pandas matplotlib plotly
+   ```   
+3. ## 🚀 Ejecutar el proyecto en Google Colab
+
+1. Abre el siguiente enlace o copia la URL del notebook:  
+   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/Challenge-Alura-Store/blob/main/AluraStoreLatam/AluraStoreLatam.ipynb)
+
+2. Una vez abierto, selecciona **“Conectar”** en la esquina superior derecha.
+
+3. Ejecuta las celdas una por una usando **Ctrl + Enter** o **Shift + Enter**.
+
+4. Si el notebook usa datos externos, asegúrate de subir los archivos CSV a Colab:
+   ```python
+   from google.colab import files
+   uploaded = files.upload()
+   ```
+👨‍💻 Autor
+
+Julio Solano
+📧 [Tu correo o contacto profesional]
+💼 Proyecto académico de análisis de datos – 2025
+📍 Argentina
+
+⭐ Si este proyecto te resultó útil, no olvides dejar una estrella en el repositorio.
