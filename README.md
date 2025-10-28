@@ -123,7 +123,7 @@ Cada dataset contiene la siguiente información:
 3. ## 🚀 Ejecutar el proyecto en Google Colab
 
 1. Abre el siguiente enlace o copia la URL del notebook:  
-   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/Challenge-Alura-Store/blob/main/AluraStoreLatam/AluraStoreLatam.ipynb)
+   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/solanomillo/Challenge-Alura-Store/blob/main/AluraStoreLatam.ipynb)
 
 2. Una vez abierto, selecciona **“Conectar”** en la esquina superior derecha.
 
