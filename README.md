@@ -70,15 +70,32 @@ Cada dataset contiene la siguiente información:
 
 ---
 
-## 📊 Visualizaciones Incluidas  
+## 📊 Visualizaciones del Análisis
 
-✨ Gráficos y diagramas generados en el proyecto:  
-- 📉 Gráfico de barras de ingresos por tienda.  
-- 🥧 Gráficos de torta de categorías por tienda.  
-- 🟩 Comparativas de productos más y menos vendidos.  
-- 🌡️ Mapas de calor y dispersión geográfica con **Plotly**.  
-- 📊 Gráficos de líneas de calificaciones promedio.  
-- 💸 Gráficos horizontales de costos de envío.  
+### 💵 Ingresos Totales por Tienda
+<img src="https://github.com/solanomillo/Challenge-Alura-Store/blob/main/img/ingresos.png?raw=true" width="600"/>
+
+### 🛒 Ventas por Tienda
+<img src="https://github.com/solanomillo/Challenge-Alura-Store/blob/main/img/ventas_df1.png?raw=true" width="600"/>
+
+### 📦 Ventas por Categorías
+<img src="https://github.com/solanomillo/Challenge-Alura-Store/blob/main/img/ventas_categorias.png?raw=true" width="600"/>
+
+### 🧾 Ventas por Productos
+<img src="https://github.com/solanomillo/Challenge-Alura-Store/blob/main/img/ventas_productos.png?raw=true" width="600"/>
+
+### ⭐ Calificaciones Promedio
+<img src="https://github.com/solanomillo/Challenge-Alura-Store/blob/main/img/calificaciones.png?raw=true" width="600"/>
+
+### 🚚 Costo de Envío Promedio
+<img src="https://github.com/solanomillo/Challenge-Alura-Store/blob/main/img/envio_promedio.png?raw=true" width="600"/>
+
+### 🔥 Heatmap de Ventas
+<img src="https://github.com/solanomillo/Challenge-Alura-Store/blob/main/img/calor_df2.png?raw=true" width="600"/>
+
+### ⚙️ Rendimiento General de las Tiendas
+<img src="https://github.com/solanomillo/Challenge-Alura-Store/blob/main/img/rendimiento_df3.png?raw=true" width="600"/>
+
 
 📸 Todos los gráficos se encuentran disponibles en la carpeta [`/img`](./img).
 
@@ -91,7 +108,6 @@ Cada dataset contiene la siguiente información:
 | 📦 **Pandas** | Manipulación y análisis de datos |
 | 📊 **Matplotlib** | Visualización de datos |
 | 🌎 **Plotly Express** | Visualización interactiva de mapas y gráficos |
-| 🧭 **Folium (opcional)** | Mapas interactivos y geolocalización |
 | 💻 **Google Colab / Jupyter** | Ejecución del análisis y visualizaciones |
 
 ---
