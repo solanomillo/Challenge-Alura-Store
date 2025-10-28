@@ -134,11 +134,16 @@ Cada dataset contiene la siguiente información:
    from google.colab import files
    uploaded = files.upload()
    ```
-👨‍💻 Autor
-
-Julio Solano
-📧 [Tu correo o contacto profesional]
-💼 Proyecto académico de análisis de datos – 2025
+# 👨‍💻 Autor
+**Julio Solano**  
+🔗 [GitHub](https://github.com/solanomillo)  
+📧 solanomillo144@gmail.com
+💼 Proyecto de análisis de datos – 2025
 📍 Argentina
 
 ⭐ Si este proyecto te resultó útil, no olvides dejar una estrella en el repositorio.
+# 📄 Licencia
+Este proyecto está bajo la licencia MIT.
+Podés usarlo, compartirlo y modificarlo libremente.
+
+
